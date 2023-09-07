@@ -1,0 +1,42 @@
+pink {
+    color: #f508dd;
+}
+
+.kuning {
+    color: #ffdd00;
+}
+
+.hijau {
+    color: #0de709;
+}
+
+.spacing {
+    letter-spacing: 0px;
+    word-spacing: 5px;
+    line-height: 30px;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+.lowercase {
+    text-transform: lowercase;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.paragraf {
+    font-family: "arial";
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+li {
+    font-family: "Tahoma";
+    font-size: 15px;
+}
